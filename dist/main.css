@@ -1,0 +1,19 @@
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+  background: red;
+}
+
+h1 {
+  color: darkblue;
+}
+
+#counter {
+  font-size: 20px;
+  color: green;
+}
+
+.soldo-class p {
+  font-style: italic;
+}
